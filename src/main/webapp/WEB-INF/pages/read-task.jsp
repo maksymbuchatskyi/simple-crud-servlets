@@ -1,4 +1,4 @@
-<%@ page import="com.softserve.itacademy.model.Task" %>
+<%@ page import="mbuchatskyi.model.Task" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>

@@ -1,5 +1,5 @@
-<%@ page import="com.softserve.itacademy.model.Task" %>
-<%@ page import="com.softserve.itacademy.model.Priority" %>
+<%@ page import="mbuchatskyi.model.Task" %>
+<%@ page import="mbuchatskyi.model.Priority" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>

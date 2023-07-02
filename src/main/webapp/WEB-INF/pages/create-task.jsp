@@ -1,7 +1,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 
-<%@ page import="com.softserve.itacademy.model.Priority"%>
-<%@ page import="com.softserve.itacademy.model.Task"%>
+<%@ page import="mbuchatskyi.model.Priority"%>
+<%@ page import="mbuchatskyi.model.Task"%>
 <%@ page contentType="text/html;charset=UTF-8" language="java"%>
 
 <html>
